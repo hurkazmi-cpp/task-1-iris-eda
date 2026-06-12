@@ -19,3 +19,10 @@ This repository contains my solution for Task 1 of my AI/ML Engineering Internsh
 1. Clone the repository.
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the script: `python main.py`
+
+## Key Insights & Final Conclusions
+After performing an Exploratory Data Analysis on the Iris dataset, the following key findings were observed:
+
+* **Distinct Feature Clusters:** The scatter plots demonstrate that *Iris setosa* is easily distinguishable from other species based on petal dimensions, which will make it a high-performing class for any classification model.
+* **Data Quality:** The box plots confirm that the dataset is well-structured and free of significant outliers, ensuring that a model trained on this data will be stable and reliable.
+* **Predictive Potential:** The clear separation of the species clusters across various feature visualizations indicates that the dataset is highly suitable for building accurate classification algorithms in subsequent tasks.
